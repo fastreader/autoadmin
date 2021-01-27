@@ -1,2 +1,2 @@
 # autoadmin
-Auto admin grup whatsapp
+Auto admin grupo de  whatsapp
